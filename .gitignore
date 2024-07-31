@@ -3,5 +3,5 @@
 /Snake_game_with_Raylib/*.o
 /Snake_game_with_Raylib/raylib/
 /Snake_game_with_Raylib/main
-/.vs
-/.vscode
+/*.vs
+/*.vscode
