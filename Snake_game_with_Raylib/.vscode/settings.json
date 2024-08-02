@@ -8,7 +8,7 @@
 		"**/*.o": true,
 		"**/*.exe": true,
 	},
-	"cmake.sourceDirectory": "../raylib/raylib/cmake",
+	"cmake.sourceDirectory": "/raylib/raylib",
 	"cmake.additionalKits": [
 		"raylib\\raylib\\cmake"
 	]
