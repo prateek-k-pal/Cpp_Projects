@@ -5,7 +5,7 @@ This is a Retro Snake game made with standard Cpp and Raylib graphics library. T
 If you just want to play the game you can do so by downloading and extracting the Snake_game.zip file and executing launch.exe file. 
 The game has two modes - Infinite mode with an endless class black and white snake, and no boundaries. The other one is the Level Up mode, where your snake becomes faster and various colour themes to enjoy the game (total of 5 levels).
 
-![Main Menu Image](Snake_game_with_Raylib\Graphics\main menu.png
+![Main Menu Image](Snake_game_with_Raylib\Graphics\main menu.png)
 
 ENJOY THE GAME
 THANK YOU!!!
